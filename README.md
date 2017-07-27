@@ -7,3 +7,6 @@ yarn
 yarn dev
 yarn graphql
 ```
+
+## Full Article
+https://medium.com/@jonaskuiler/how-to-create-a-universal-vue-app-with-graphql-39ce35a07e93
