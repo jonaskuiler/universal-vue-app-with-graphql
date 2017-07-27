@@ -1,5 +1,5 @@
 # Vue SSR/GraphQL demo
-This demo leverages the power of GraphQL and Vue server side rendering to make a bitcoin price index tracker.
+I’ve been creating Universal Apps with Vue lately. These apps will render HTML on both the client- and server side. I wondered how to combine this with GraphQL.
 
 ## Quickstart
 ```
